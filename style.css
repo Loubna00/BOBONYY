@@ -1,0 +1,277 @@
+body{
+    margin: none;
+    background-color: rgb(3, 3, 3);
+}
+.container{
+    display: inline;
+    flex: none;
+    justify-content: center;
+}
+.nav-link{
+    color: rgb(236, 238, 120);
+}
+.navbarNav{
+    justify-content: center important;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    background: rgb(0, 0, 0);
+}
+.bobocenter{
+    position: absolute;
+    top: 50%;
+    bottom: 50%;
+    right: 50%;
+    left: 55%;
+    transform: translate(-50%- 50%);
+}
+.image{
+    margin-left: 35%;
+    width: 20%;
+}
+img.logo{
+    background-color: black;
+    width: 5rem;
+    height: 5rem;
+}
+.logofond{
+    width: 10%;
+    height: 10px;
+    image-orientation: center;
+}  
+
+.myvideo {
+    display: flex;
+    justify-content: center;
+    position: inherit;
+    right: 0;
+    height: 40em;
+    width: 100%;
+    object-fit: cover;
+}
+.content{
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%);
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+#tt{
+    min-width: 100px;
+    min-height: 20px;
+}
+.redi{
+    position: relative;
+    text-align: center;
+    justify-content: center;
+    margin-top: none;
+    margin-bottom: none;
+}
+.redi1{
+    position: relative;
+    text-align: center;
+    justify-content: center;
+    margin-top: 30em;
+    margin-bottom: none;
+}
+#footer{
+    height: 0em;
+    margin-bottom: none;
+    margin-top: none;
+    margin-left: none;
+    margin-right: none;
+    display: flex end;
+    text-align: center;
+    justify-content: center;
+}
+.iconanim{
+    background-size: 0%;
+    background-image: black;
+    width: 5em;
+    height: 5em;
+}
+h1{
+    color: rgb(236, 238, 120);
+    font-weight: 2px;
+}
+p{
+    color: white;
+}
+.text-center{
+    align-items: center;
+    display: flex;
+}
+.bonus{
+    margin-top: 10em;
+}
+h3{
+    margin-top: 5em;
+    justify-content: space-around;
+    color: rgb(236, 238, 120); 
+    display: flex;
+    justify-content: center;
+}
+iframe{
+    border: 10px white; 
+}
+.youtube{
+    margin-left: 35em;
+    width: 450px;
+    height: 350px;
+}
+.logofille{
+    position: relative ;
+}
+
+
+
+
+
+
+
+
+
+.teleimg{
+    width: 30px;  
+
+    position: relative;
+    
+    transform: translate(-50%- 50%); 
+}
+.teleimg{
+    width: 100px;  
+    background: transparent;
+    position: relative;
+    top: 75%;
+    bottom: 20%;
+    right: 50%;
+    left: 50%;
+    transform: translate(-50%- 50%); 
+}
+
+
+
+
+
+
+
+.h1{
+    color: rgb(128, 120, 238);
+    text-decoration: none;
+    text-align: center;  
+    font-weight: 50px;
+    font-size: 20px;
+}
+br{
+    text-decoration: center;
+}
+
+
+
+
+
+
+
+
+.texteserveur{
+    text-align: center;
+}
+
+
+.myvideotete{
+    margin-top: 0em;
+}
+.vid{
+    margin-top: 0em;
+}
+.texte{
+    color: #ff00c8;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 116px;
+}
+
+
+
+
+#carouselExemple {
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 120px;
+}
+
+.carousel-item img {
+    width: 100%;
+    height: auto;
+}
+
+.titlepage{
+    font-family: cursive;
+    text-align: center;
+    color: rgb(62, 62, 207);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.cadrestreameurs {
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+}
+
+.nimo {
+    margin-left: 50%;
+    display: flex;
+    flex-direction: column;
+}
+.p1{
+    margin-left: 50%;
+}
+.lienstream {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.nimo img{
+    width: 100px;         
+}
+
+.logostreams{
+    background: transparent;
+    position: relative;
+    top: 75%;
+    bottom: 20%;
+    right: 50%;
+    left: 50%;
+    transform: translate(-50%- 50%);  
+}
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
